@@ -11,6 +11,7 @@ const App = () => {
             <Button/>
             <ButtonStyled/>
             <Welcome/>
+            <h1>Plik zosta zmieniony</h1>
         </div>
     );
 };
