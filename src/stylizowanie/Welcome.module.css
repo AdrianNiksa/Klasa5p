@@ -1,0 +1,9 @@
+.title {
+    color: blue;
+    text-align: center;
+    transition: color 0.3s ease;
+}
+
+.title:hover {
+    color: green;
+}

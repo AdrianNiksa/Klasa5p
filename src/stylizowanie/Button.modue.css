@@ -1,0 +1,13 @@
+.primary {
+    background-color: royalblue;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.primary:hover {
+    background-color: midnightblue;
+}
